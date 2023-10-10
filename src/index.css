@@ -16,3 +16,10 @@
 
 }
 
+.nav-active {
+  font-weight: 700;
+}
+
+.nav-normal {
+  font-weight: 300;
+}

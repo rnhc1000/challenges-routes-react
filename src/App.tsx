@@ -1,12 +1,12 @@
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import Home from "./routes/Home";
+import BodyHome from "./routes/BodyHome";
 import NotFound from "./routes/NotFound";
 import Products from "././routes/Products";
+import Computers from "./routes/Products/Computers";
 import Electronics from "./routes/Products/Electronics";
 import Books from "./routes/Products/Books";
 import AboutUs from "./routes/AboutUs";
-import BodyHome from "./routes/BodyHome";
-import Computers from "./routes/Products/Computers";
 
 function App() {
 
