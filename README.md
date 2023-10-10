@@ -1,5 +1,5 @@
-# DSCommerce - FrontEnd ReactJS-based Challenge - ReactJS Professional - @devsuperior -
-ReactJS Professional Challenge on Static Components 
+# React-Routerd Challenge - ReactJS Professional - @devsuperior -
+ReactJS Professional Challenge on Routes 
 - Components
 - Routes
 - Yarn
