@@ -1,0 +1,28 @@
+.container-products-menu {
+    display: flex;
+    height: 60px;
+    width: 100%;
+    max-width: 960px;
+    background-color: var(--color-bg-menu-products);
+    margin: 30px auto 20px 160px;
+    align-items: center;
+
+}
+
+.nav-products {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 20px;
+    color: var(--color-text-menu-products);
+}
+
+.nav-products a {
+    color: var(--color-text-menu-products);
+}
+
+
+
+
