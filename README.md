@@ -1,5 +1,5 @@
-## React-Routerd Challenge - ReactJS Professional - @devsuperior -
-ReactJS Professional Challenge on Routes 
+## React-Router Challenge - ReactJS Professional - @devsuperior -
+ReactJS Professional Challenge on Routes/Nested Routes
 - Components
 - Routes
 - Yarn
