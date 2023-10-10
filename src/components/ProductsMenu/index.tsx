@@ -6,9 +6,9 @@ export default function ProductsMenu() {
         <section>
             <div className="container-products-menu">
                 <nav className="nav-products">
-                    <NavLink to="/products/computers" className={({ isActive}) => isActive ? "nav-active" : "nav-normal"}> Computadores</NavLink>
-                    <NavLink to="/products/electronics" className={({ isActive}) => isActive ? "nav-active" : "nav-normal"}>Eletrônicos</NavLink>
-                    <NavLink to="/products/books" className={({ isActive}) => isActive ? "nav-active" : "nav-normal"}>Livros</NavLink>
+                    <NavLink to="/products/computers" className={({ isActive }) => isActive ? "nav-active" : "nav-normal"}> Computadores</NavLink>
+                    <NavLink to="/products/electronics" className={({ isActive }) => isActive ? "nav-active" : "nav-normal"}>Eletrônicos</NavLink>
+                    <NavLink to="/products/books" className={({ isActive }) => isActive ? "nav-active" : "nav-normal"}>Livros</NavLink>
                 </nav>
             </div>
 

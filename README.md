@@ -46,7 +46,7 @@ The design is structured as shown:
 - public|
 
 ## _Screenshot_
-[![](./challenge-react-routes.svg)]()
+[![](./challengeReactRouter.png)]()
 ## _Links_
 - Live Site URL: [] 
 ## _Built with_
